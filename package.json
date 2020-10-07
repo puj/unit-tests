@@ -1,7 +1,7 @@
 {
-  "name": "@technigo/unit-tests",
+  "name": "@puj/WK08LiveSessionUnitTests",
   "version": "1.0.0",
-  "description": "Challenge yourself to make all these unit tests pass!",
+  "description": "Follow along and fill in, study this afterwards",
   "private": true,
   "main": "src/index.js",
   "scripts": {
